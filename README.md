@@ -11,9 +11,9 @@ I'm a passionate game developer with a love for creating immersive worlds, engag
 
 ## My Projects
 
-### Project 1: Retro Runner
-- **Description**: Blast through pixelated obstacles and collect coins in this retro-inspired endless runner game.
-- **Tech Stack**: Unity, C#, Pixel Art
+### Project 1: Mario Clone
+- **Description**: Blast through pixelated obstacles and collect coins in this Mario-inspired platformer game.
+- **Tech Stack**: Godot, gdScript, Pixel Art
 - **Status**: Completed
 
 ### Project 2: Space Invaders Redux
