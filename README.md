@@ -11,16 +11,11 @@ I'm a passionate game developer with a love for creating immersive worlds, engag
 
 ## My Projects
 
-### Project 1: Mario Clone
-- **Description**: Blast through pixelated obstacles and collect coins in this Mario-inspired platformer game.
+### Project 1: Dino Runner
+- **Description**: An Endless Dino runner game based on chrome dinasour game.
 - **Tech Stack**: Godot, gdScript, Pixel Art
 - **Status**: Completed
 
-### Project 2: Space Invaders Redux
-- **Description**: Defend Earth against invading alien forces in this modern twist on the classic arcade game.
-- **Tech Stack**: Unity, C#, Pixel Art
-- **Status**: In Progress
-  
 
 ## My Skills
 
