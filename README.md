@@ -1,7 +1,9 @@
 # Hey there, I'm Himanshu Jain! 👾🎮
 
-🚀 Welcome to my GitHub arcade! Join me on a pixelated journey through my game projects, achievements, and coding quests.
+🚀 Welcome to my GitHub profile! Join me on a pixelated journey through my game projects, achievements, and coding quests.
 
+
+![Snap! (2)](https://github.com/user-attachments/assets/8162590a-6ec6-4c29-94fa-84750b3de78d)
 
 
 ## About Me
@@ -12,7 +14,17 @@ I'm a passionate game developer with a love for creating immersive worlds, engag
 ## My Projects
 
 ### Project 1: Dino Runner
+<img src="https://github.com/user-attachments/assets/5859ea43-04e9-4c5a-99d3-b68a3e71ddb4" width="400">
+
 - **Description**: An Endless Dino runner game based on chrome dinasour game.
+- **Tech Stack**: Godot, gdScript, Pixel Art
+- **Status**: Completed
+
+### Project 2: Snap! Dungeon Showdown
+<img src="https://github.com/user-attachments/assets/2e986542-a047-4269-b38b-eaa501053235" width="400">
+
+- **Description**: A Game made specially for a Game Jam!
+- **Theme**: Snap! Photo Time (PizzaJam)
 - **Tech Stack**: Godot, gdScript, Pixel Art
 - **Status**: Completed
 
@@ -20,9 +32,9 @@ I'm a passionate game developer with a love for creating immersive worlds, engag
 ## My Skills
 
 - **Game Engines**: Unity, GoDot
-- **Programming Languages**: C#, C++, GDScript
+- **Programming Languages**: C++, GDScript
 - **Art & Design**: Pixel Art, Animation
-- **Tools & Software**: Photoshop, Aseprite
+- **Tools & Software**: Photoshop, Aseprite, currently learning blender & 3D Game Dev.
 
 
 ## Level Up with Me
