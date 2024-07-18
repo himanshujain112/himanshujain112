@@ -13,20 +13,29 @@ I'm a passionate game developer with a love for creating immersive worlds, engag
 
 ## My Projects
 
-### Project 1: Dino Runner
-<img src="https://github.com/user-attachments/assets/5859ea43-04e9-4c5a-99d3-b68a3e71ddb4" width="400">
-
-- **Description**: An Endless Dino runner game based on chrome dinasour game.
-- **Tech Stack**: Godot, gdScript, Pixel Art
-- **Status**: Completed
-
-### Project 2: Snap! Dungeon Showdown
-<img src="https://github.com/user-attachments/assets/2e986542-a047-4269-b38b-eaa501053235" width="400">
-
-- **Description**: A Game made specially for a Game Jam!
-- **Theme**: Snap! Photo Time (PizzaJam)
-- **Tech Stack**: Godot, gdScript, Pixel Art
-- **Status**: Completed
+<table>
+  <tr>
+    <td>
+      <h3>Project 1: Dino Runner</h3>
+      <img src="https://github.com/user-attachments/assets/5859ea43-04e9-4c5a-99d3-b68a3e71ddb4" width="100%">
+      <ul>
+        <li><strong>Description</strong>: An Endless Dino runner game based on chrome dinosaur game.</li>
+        <li><strong>Tech Stack</strong>: Godot, gdScript, Pixel Art</li>
+        <li><strong>Status</strong>: Completed</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Project 2: Snap! Dungeon Showdown</h3>
+      <img src="https://github.com/user-attachments/assets/2e986542-a047-4269-b38b-eaa501053235" width="100%">
+      <ul>
+        <li><strong>Description</strong>: A Game made specially for a Game Jam!</li>
+        <li><strong>Theme</strong>: Snap! Photo Time (PizzaJam)</li>
+        <li><strong>Tech Stack</strong>: Godot, gdScript, Pixel Art</li>
+        <li><strong>Status</strong>: Completed</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ## My Skills
