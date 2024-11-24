@@ -25,8 +25,10 @@
   <a href="https://linkedin.com/in/himanshu-jain112/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" target="_blank" />
   </a>
+    <br/>
+    <br/>
+    <a href='https://ko-fi.com/himanshuj112' target='_blank'><img height='48' style='border:0px;height:48px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
 <br/>
@@ -35,7 +37,7 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,blender,ps,figma,git,npm" /><
+    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,blender,ps,figma,git,npm" />
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,cs,mysql,net" /><br>
 </div>
 
@@ -46,23 +48,13 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=himanshujain112&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=himanshujain112&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=himanshujain112&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=himanshujain112&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=himanshujain112&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<br/>
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=himanshujain112&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
 <br/>
-</div>
-
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/himanshuj112' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
