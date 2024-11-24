@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Blender, Unity, Nodejs**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/himanshujain112/himanshujain112/issues)**
+💬 Ask me about **Node.js, Unity, C#... or anything [here](https://github.com/himanshujain112/himanshujain112/issues)**
  </div>
  
  <br/>
