@@ -12,7 +12,7 @@
  
  🔭 I’m a **Hobbyist Game Developer!**
  
- 🌱 I’m currently learning **Blender, Unity, Nodejs**
+ 🌱 I’m currently learning **MongoDB, Redis, Nodejs**
 
 💬 Ask me about **Node.js, Unity, C#... or anything [here](https://github.com/himanshujain112/himanshujain112/issues)**
  </div>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,blender,ps,figma,git,npm" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,cs,mysql,net" /><br>
+    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,ps,figma,git,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,cs,mysql,sqlite,mongodb,net" /><br>
 </div>
 
 <br/>
