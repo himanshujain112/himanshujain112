@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a **Hobbyist Game Developer!**
+ 🔭 I’m a **Hobbyist Developer!**
  
  🌱 I’m currently learning **MongoDB, Redis, Nodejs**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,ps,figma,git,npm" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,cs,mysql,sqlite,mongodb,net" /><br>
+    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,ps,figma,git,npm,linux,redis" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,python,cs,mysql,sqlite,mongodb,net" /><br>
 </div>
 
 <br/>
