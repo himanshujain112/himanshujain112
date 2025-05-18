@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,ps,figma,git,npm,linux,redis" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,python,cs,mysql,sqlite,mongodb,net" /><br>
+    <img src="https://skillicons.dev/icons?i=unity,godot,vscode,rider,ps,figma,git,npm,linux,redis,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,python,fastapi,flask,cs,mysql,sqlite,net" /><br>
 </div>
 
 <br/>
