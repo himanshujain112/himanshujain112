@@ -38,7 +38,7 @@ I build things on the internet - games, tools, and systems.
 ### 🌐 Platforms
 
 * Portfolio → https://codemeoww.com
-* Games → https://games.codemeoww.com
+* Games → https://ottergames.org
 * itch.io → https://codemeoww.itch.io/
 
 </td>
